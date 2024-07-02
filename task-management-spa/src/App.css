@@ -1,8 +1,10 @@
+body {
+  flex-direction: column;
+  background-color: rgb(241 241 241)
+}
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  width: 100%;
+  background-color: rgb(241 241 241)
 }
 
 .logo {

@@ -1,16 +1,20 @@
 {
-    "data": [
-        {
-            "task_title": "Lorem Ipsum",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
-            "estimation": 10,
-            "created_by": "dummy_erick"
-        },
-        {
-            "task_title": "consectetur adipiscing elit,",
-            "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
-            "estimation": 10,
-            "created_by": "dummy_erick"
-        }
-    ]
+  "data": [
+    {
+      "id": "1",
+      "created_by": "user",
+      "description": "Change something.",
+      "estimation": 0,
+      "status": 2,
+      "task_title": "Test 1"
+    },
+    {
+      "id": "2",
+      "created_by": "user",
+      "description": "",
+      "estimation": 0,
+      "status": 0,
+      "task_title": "Test 2"
+    }
+  ]
 }
